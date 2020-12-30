@@ -10,6 +10,7 @@ Input variables:
 ### bank client data:
 1 - age (numeric)
 2 - job : type of job (categorical:'admin.','bluecollar','entrepreneur','housemaid','management','retired','selfemployed','services','student','technician','unemployed','unknown')
+
 3 - marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
 4 - education (categorical: 'basic.4y','basic.6y','basic.9y','high.school','illiterate','professional.course','university.degree','unknown')
 5 - default: has credit in default? (categorical: 'no','yes','unknown')
