@@ -34,7 +34,7 @@ Input variables:
 ### Output variable (desired target):
 21 - y - has the client subscribed a term deposit?<br>
 
-##Screenshots
+## Screenshots
 ![Screenshot_error](./Screenshots/1.png) <br> <br>
 ![Screenshot_error](./Screenshots/2.png) <br> <br>
 ![Screenshot_error](./Screenshots/3.png)
