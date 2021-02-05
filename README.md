@@ -31,7 +31,7 @@ Input variables:
 18 - cons.conf.idx: consumer confidence index<br>
 19 - euribor3m: euribor 3 month rate<br>
 20 - nr.employed: number of employees<br>
-###Output variable (desired target):
+### Output variable (desired target):
 21 - y - has the client subscribed a term deposit?<br>
 
 ##Screenshots
